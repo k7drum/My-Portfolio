@@ -4,13 +4,13 @@
 /*=============== VARIABLES CSS ===============*/
 :root {
     /*===== Colors =====*/
-    --hue-color:242;
+    --hue-color:209;
 
     /* HSL Color Mode */
-    --skin-color: hsla(10, 92%, 49%, 0.938);
+    --skin-color: hsla(10, 90%, 45%, 0.938);
     --title-color: hsl(var(--hue-color), 8%, 95%);
     --text-color: hsl(var(--hue-color), 8%, 85%);
-    --body-color: hsl(var(--hue-color), 100%, 10%);
+    --body-color: hsl(var(--hue-color), 100%, 20%);
     --box-color: hsl(var(--hue-color), 64%, 27%);
     --scroll-bar-color: hsl(var(--hue-color), 100%, 10%);
     --scroll-thumb-color: hsl(var(--hue-color), 100%, 26%);
